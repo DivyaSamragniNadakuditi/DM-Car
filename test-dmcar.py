@@ -1,6 +1,4 @@
-# Auto Streering for straight lane with Stop-Sign detector
-# Date: Feb 23, 2019
-# Jeongkyu Lee
+
 
 # import the necessary packages
 from keras.preprocessing.image import img_to_array
