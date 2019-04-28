@@ -18,7 +18,11 @@ In this project, we will be working on the implementation of data mining Techniq
 ![BasewithBattery](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/BasewithBattery.jpg)
 ![BasewithBattery1](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/BasewithBattery1.jpg)
 ![Engine](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Engine.jpg)
-
+![Engine2](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Engine2.jpg)
+![Robothats and Rapberrypi](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Robothats%20and%20Rapberrypi.jpg)
+![Raspberrypi on](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Raspberrypi%20on.jpg)
+![Servos](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Servos.jpg)
+![Frontwheels](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Frontwheels.jpg)
 
 
 
