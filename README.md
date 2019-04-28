@@ -1,4 +1,4 @@
-![car-image](https://raw.githubusercontent.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/car-image.png
+![car-image](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/car-image.png)
 
 
 # Autonomous Car project in CPSC552 Data Mining 
