@@ -15,11 +15,13 @@ This Repository contains the setting up of an autonomous raspberry pi-car and tr
 In this project, we will be working on the implementation of data mining Techniques- Convolutional Neural Networks(CNN) for real-world problem Autonomous vehicle. For this project, we used the Smart Video Car Kit V2.0 for Raspberry Pi. We will Assemble the car, Set up Raspberry Pi, Train a Model for detecting traffic signs and act accordingly.
 
 ## Setting-up of Autonomous Car
+![BasewithBattery](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/BasewithBattery.jpg)
+![BasewithBattery1](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/BasewithBattery1.jpg)
+![Engine](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Engine.jpg)
 
 
-We can Assemble the Autonomous Car with the following steps
-Configuration of Raspberry Pi
-Training a Model
+
+
 
 ## Dataset
   1. Stop Sign Images: https://drive.google.com/open?id=1fbCMN62OzVuYi596aOx4-TIq_Lqe5W14
