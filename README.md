@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/DivyaSamragniNadakuditi/DM-Car/car-image.png
+
 # Autonomous Car project in CPSC552 Data Mining 
 This Repository contains the setting up of an autonomous raspberry pi-car and training it with data mining models.
 
