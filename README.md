@@ -36,11 +36,11 @@ Link of Google Drive:https://drive.google.com/open?id=13gxQwoQr6Or3sMAl9gn7LvNw2
   
 ## Evaluating Convolutional Neural Network
 We have trained the Car using Convolutional Neural network for the following Signs:
-  Stop Sign
-  High Speed Sign
-  Low Speed Sign
-  Trafic Signal Sign
-  RailRoad Sign
+  Stop Sign, 
+  High Speed Sign, 
+  Low Speed Sign, 
+  Trafic Signal Sign, 
+  RailRoad Sign, 
   Yield Sign.
   
 ![stop-NN](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/stop-NN.png)
