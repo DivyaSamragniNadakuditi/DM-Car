@@ -35,3 +35,5 @@ In this project, we will be working on the implementation of data mining Techniq
   5. RailRoad Images: https://drive.google.com/open?id=1vKr5ShTeaz1iPxNJDMWjB7vQmNkkPnbR
   6. Yield Sign Images: https://drive.google.com/open?id=11uYymdVrB_DhhJbWKtHQ1VmoF72nj3U6
   
+## Evaluating Convolutional Neural Network
+![stop-NN](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/stop-NN.png)
