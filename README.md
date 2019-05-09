@@ -84,7 +84,14 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   
   
   5. How to overcome the limitations in your DM-Car implementation
+  
+  Trained model sign detection images:
+  - Stop Sign: https://drive.google.com/open?id=1oHMZ2Tfo1g5WiY-WAukLalZkMnG8qXdA
+  - Signal Sign: https://drive.google.com/open?id=1eUDeU-Zc03yAoZCTlEp1ic5iHjgAGYeB
+  - Railroad Sign: https://drive.google.com/open?id=1psmRUF6pFnV2PNnOxr2mGeiCogKscE3n
 
+
+## Phase 5: Testing Autonomous Vehicle with trained Model
 
 
 
