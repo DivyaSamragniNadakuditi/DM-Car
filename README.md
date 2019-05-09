@@ -4,7 +4,7 @@
 # Autonomous Car project in CPSC552 Data Mining 
 This Repository contains the setting up of an autonomous raspberry pi-car and training it with data mining models.
 
-#Group 1
+# Group 1
 <hr />
 
 ## Contents:
@@ -24,20 +24,75 @@ SunFounder PiCar-V for Raspberry Pi 3/2/B+
 In this stage, we assemble the Smart Video Car for RaspberryPi. We attach fix therear wheels,Upper plate, Battery Holder, Motor Driver, PWM Driver,Robot HATS, Raspberry Pi. Then we build the Circuits.Ater Configuring the Servos(Details mentioned in the Second part), we fix the front wheels and Camera.  Below is the link of GoogleDrive where the images of assembling the car are present.
 
 Assembling Images:
-Image 1https://drive.google.com/open?id=1r8d-2CXZPx8imKsb3EGqVvExqdcq32A3
-Image 2
-Image 3
-Image 4
-Image 5
+  - Image 1: https://drive.google.com/open?id=1r8d-2CXZPx8imKsb3EGqVvExqdcq32A3
+  - Image 2: https://drive.google.com/open?id=1r0HnyBP826RgsnNldvYAd-n5SXQixBBB
+  - mage 3: https://drive.google.com/open?id=1G631TKRQsQvd81LVjVBBTpjKsPhmhYhw
+  - Image 4: https://drive.google.com/open?id=12L_TfzryScfRlTGc3KfgPZkIn2xKjw1o
+  - Image 5: https://drive.google.com/open?id=1JA3jSyyWul4XOrs5HLvjhD0wanJOWCcN
+  - Image 6: https://drive.google.com/open?id=1V-ZxzBHeCvuZDKvATOigjgAQ-wSL798E
+  - Image 7: https://drive.google.com/open?id=1Ph_FcsrJVG4Len6V5LPcctoVV78qP6hH
+  - Image 8: https://drive.google.com/open?id=1YSXAkY4WXzOJj0wjS5uYMim6Uz-I860p
 
-Link of Google Drive: https://drive.google.com/open?id=1_i5RnjMk-N36RWOn_UuZXdj3fTnPk2Ab
+### Question: Car Improvement suggestions:
 
-
-## SettingUp and Configuration Of RaspberryPi
+## Phase 2: SettingUp and Configuration Of RaspberryPi
 
 We Download Raspbian Image and write it into an SD Card. Later, we edit the wpa configuration file and set the network details. We further use VNC Viewer to connect to the Raspberrypi. The Images of the setting up and Configuration steps are in the link below.
 
-Link of Google Drive:https://drive.google.com/open?id=13gxQwoQr6Or3sMAl9gn7LvNw2mLJWo44
+### SettingUp and Configuration Of RaspberryPi Images:
+
+  - Image 1: https://drive.google.com/open?id=1YwErIctL_KvqnlPgY1x6-kXXmzA8L83Z
+  - Image 2: https://drive.google.com/open?id=1lwREGghlnn-gaFcf52oveYKyI5b-Q_CP
+  - Image 3: https://drive.google.com/open?id=1_6KHYkRYCx_NCKOw_C__Oi8dDsI0sr94
+  - Image 4: https://drive.google.com/open?id=1Wj5G3rMENWfm2uRo7AnhsTjVjUePHxBe
+  - Image 5: https://drive.google.com/open?id=1sBUN2I8joG4Yo9oHywXWTc8cpyEkzcLJ
+  - Image 6: https://drive.google.com/open?id=148yAJqAYnK843zDdHnheA1jRswEieW1g
+  - Image 7: https://drive.google.com/open?id=19fTJnMLgC2FV3zK50KWslGEEBzrQRO7l
+  - Image 8: https://drive.google.com/open?id=1wdy7uJVFn-21Xpho3CPi4NoDBiWICBx-
+  - Image 9: https://drive.google.com/open?id=1cPbhGeS5HvxOKn54OJho9f6wNio3jJfo
+  - Image 10:https://drive.google.com/open?id=1B2-_0AkgcORT77ADU3T4zFefmPpqLup2
+  
+
+### Question: improve the connectivity of picar 
+
+
+
+
+
+
+## Phase 3:
+
+### How to improve the lane detection
+
+### Question: How to improve the controlling front wheels and back wheels motors (i.e., servos)
+
+Lane Detection Video: https://youtu.be/crSBcHiNZTg
+
+## Phase 4:
+
+### Questions:
+  1. Image Size
+  
+  
+  2. How to design CNN architecture including how many layers, what kind of layers, and so on
+  
+  
+  3. How to optimize the model including parameter values, drop out, backpropagation, learning rate, # of epoch and so on
+  
+  
+  4. Evaluations
+  
+  
+  5. How to overcome the limitations in your DM-Car implementation
+
+
+
+
+
+
+
+
+
 
 ## Dataset
   1. Stop Sign Images: https://drive.google.com/open?id=1fbCMN62OzVuYi596aOx4-TIq_Lqe5W14
