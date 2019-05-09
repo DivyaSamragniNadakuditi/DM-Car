@@ -1,5 +1,3 @@
-
-
 # import the necessary packages
 from keras.preprocessing.image import img_to_array
 from keras.models import load_model
@@ -92,6 +90,7 @@ while True:
 	r = 320 / float(w)
 	dim = (320, int(h * r))
 	frame = cv2.resize(frame, dim, cv2.INTER_AREA)
+	
 	# resize to 320 x 180 for wide frame
 	frame = frame[0:180, 0:320]
 	# crop for CNN model, i.e., traffic sign location
@@ -118,10 +117,14 @@ while True:
 
 	# check to see if stop sign was detected using our convolutional
 	# neural network
-	if stop > notStop:
+	#if stop > notStop:
+		## update the label and prediction probability
+		#label = "Stop"
+		#proba = stop
+		if max(noSign, stop, speed55, speed35, signal, railroad, yield1) == stop:
 		# update the label and prediction probability
-		label = "Stop"
-		proba = stop
+            label = "stop"
+            proba = stop
 
 		# increment the total number of consecutive frames that
 		# contain stop
@@ -230,7 +233,7 @@ while True:
 	elif keycmd == 'w':
 		isMoving = True
 		bw.speed = SPEED
-		bw.forward()
+		bw.forward() 	
 	elif keycmd == 'x':
 		bw.speed = SPEED
 		bw.backward()
