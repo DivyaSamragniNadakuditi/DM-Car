@@ -4,6 +4,9 @@
 # Autonomous Car project in CPSC552 Data Mining 
 This Repository contains the setting up of an autonomous raspberry pi-car and training it with data mining models.
 
+#Group 1
+<hr />
+
 ## Contents:
   1. Introduction
   2. Assembling the Autonomous Car
@@ -15,8 +18,17 @@ This Repository contains the setting up of an autonomous raspberry pi-car and tr
 ## Introduction:
 In this project, we will be working on the implementation of data mining Techniques- Convolutional Neural Networks(CNN) for real-world problem Autonomous vehicle. For this project, we used the Smart Video Car Kit V2.0 for Raspberry Pi. We will Assemble the car, Set up Raspberry Pi, Train a Model for detecting traffic signs and act accordingly.
 
-## Assembling the  Autonomous Car
+## Phase 1: Assembling the  Autonomous Car
+SunFounder PiCar-V for Raspberry Pi 3/2/B+
+
 In this stage, we assemble the Smart Video Car for RaspberryPi. We attach fix therear wheels,Upper plate, Battery Holder, Motor Driver, PWM Driver,Robot HATS, Raspberry Pi. Then we build the Circuits.Ater Configuring the Servos(Details mentioned in the Second part), we fix the front wheels and Camera.  Below is the link of GoogleDrive where the images of assembling the car are present.
+
+Assembling Images:
+Image 1https://drive.google.com/open?id=1r8d-2CXZPx8imKsb3EGqVvExqdcq32A3
+Image 2
+Image 3
+Image 4
+Image 5
 
 Link of Google Drive: https://drive.google.com/open?id=1_i5RnjMk-N36RWOn_UuZXdj3fTnPk2Ab
 
