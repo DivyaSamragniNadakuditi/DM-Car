@@ -146,7 +146,7 @@ We have trained the Car using Convolutional Neural network for the following 6 S
 ![Training-Model-Plot](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-plot.jpg)
 
 #### - # of epoch = 22
-#### - Parameter values = Convolutional layer 1- 25 filters of size 5x5, Convolutional layer 2 - 50 filters of 5x5
+#### - Parameter values = Convolutional layer 1- 22 filters of size 5x5, Convolutional layer 2 - 44 filters of 5x5
 #### - Drop out = 0.2
 #### - Learning Rate: 0.005
 #### - Batch Size: 60
