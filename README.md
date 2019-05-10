@@ -11,14 +11,6 @@ This Repository contains the setting up of an autonomous raspberry pi-car and tr
   2. Nitish Soman
   3. Shiva Shankar Ganesan
   4. Amr Attia
-
-## Contents:
-  1. Introduction
-  2. Assembling the Autonomous Car
-  3. Setting-up Raspberry Pi
-  4. Dataset
-  5. Training Model for Various Signs using Convolutional Neural Networks
-  6. Improvement Of the Autonomous Car
   
 ## Introduction:
 In this project, we will be working on the implementation of data mining Techniques- Convolutional Neural Networks(CNN) for real-world problem Autonomous vehicle. For this project, we used the Smart Video Car Kit V2.0 for Raspberry Pi. We will Assemble the car, Set up Raspberry Pi, Train a Model for detecting traffic signs and act accordingly.
@@ -65,14 +57,20 @@ We Download Raspbian Image and write it into an SD Card. Later, we edit the wpa 
   - Image 10:https://drive.google.com/open?id=1B2-_0AkgcORT77ADU3T4zFefmPpqLup2
   
 
-### improve the connectivity of picar 
+### Improve the connectivity of picar
+It should have connected automatically to any open wifi network initially.
 
 
 ## Phase 3:
 
 ### How to improve the lane detection
+- If we are able to convert the frame to grayscale then we will get better results.
+- We need to create marks for yellow and white pixels.
+- Using a Canny edge detection technique.
 
-### Question: How to improve the controlling front wheels and back wheels motors (i.e., servos)
+### How to improve the controlling front wheels and back wheels motors (i.e., servos)
+- Most of the times car going towards to left-hand side, so we need to adjust the alignment in front wheels.
+- We need to calibrate both the wheels so that it will go straight.
 
 Lane Detection Video: https://youtu.be/crSBcHiNZTg
 
@@ -135,12 +133,13 @@ We have trained the Car using Convolutional Neural network for the following 6 S
 ![Training-Model-Plot](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-plot.jpg)
 
 ## Dataset
-  1. Stop Sign Images: https://drive.google.com/open?id=1fbCMN62OzVuYi596aOx4-TIq_Lqe5W14
-  2. High Speed Images https://drive.google.com/open?id=1TRyYTwzTTWxPLIIKIqBa0deLJ2ICVN3K
-  3. Low Speed Images: https://drive.google.com/open?id=1GaFCKJrUH7aff9nJqgEJ9990qFFbya9e
-  4. Traffic Signal images: https://drive.google.com/open?id=1WWKPTqv2GRUlpx6rw_AZwXDSIHuA2LlQ
-  5. RailRoad Images: https://drive.google.com/open?id=1vKr5ShTeaz1iPxNJDMWjB7vQmNkkPnbR
-  6. Yield Sign Images: https://drive.google.com/open?id=11uYymdVrB_DhhJbWKtHQ1VmoF72nj3U6
+  1. Stop Sign Images: https://drive.google.com/open?id=1cgsu32XoGJW63Nt1Zl2n1vrNx-Tbtros
+  2. High Speed Images https://drive.google.com/open?id=1GEFpTuB8Rnm2vT4GvPO0yPBp2KuHxYD1
+  3. Low Speed Images: https://drive.google.com/open?id=1zLWLQyFwJd9UaKWByEm5y0dwAQxwDTU5
+  4. Traffic Signal images: https://drive.google.com/open?id=1alLO-oaUTNcpbTTGahVil35lidzU4iuu
+  5. RailRoad Images: https://drive.google.com/open?id=1o5gVb9AJrc7gbV-2SIZ0JNewsNT8bHVK
+  6. Yield Sign Images: https://drive.google.com/open?id=1V1eR2iBYRFvlwVSyOObA1xcLvKadZN8S
+  7. No Sign: https://drive.google.com/open?id=14RERMcxZ390g0R4DUvF-1gFQ32ZdoQx8
   
 
 ## Final Phase:
