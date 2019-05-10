@@ -106,8 +106,12 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   3. Trained Model Sign Detection: https://drive.google.com/open?id=1psmRUF6pFnV2PNnOxr2mGeiCogKscE3n
   4. Autonomous Car using Data Mining - Competition Video:
 
-
+## CNN Characteristics:
+  1. Architecture - LeNet : We have used Lenet architecture for classifying the images. The LetNet architecture is an excellent “first image classifier” for Convolutional Neural Networks.The LeNet architecture consists of two sets of convolutional, activation, and pooling layers, followed by a fully-connected layer, activation, another fully-connected, and finally a softmax classifier. The LeNet architecture is implemented using Keras and Python
+File: LeNet.py is the code used for implementing Lenet architecture.
+  
 ## Training Model for Various Signs using Convolutional Neural Networks
+
 We have trained the Car using Convolutional Neural network for the following 6 Signs:
   - Stop Sign 
   - High Speed Sign 
