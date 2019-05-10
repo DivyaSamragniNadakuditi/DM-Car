@@ -107,6 +107,9 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   4. Autonomous Car using Data Mining - Competition Video:
 
 ## CNN Characteristics:
+
+![LeNetArchitecture](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/LeNetArchitecture.png)
+
   1. Architecture - LeNet : We have used Lenet architecture for classifying the images. The LetNet architecture is an excellent “first image classifier” for Convolutional Neural Networks.The LeNet architecture consists of two sets of convolutional, activation, and pooling layers, followed by a fully-connected layer, activation, another fully-connected, and finally a softmax classifier. The LeNet architecture is implemented using Keras and Python
 File: LeNet.py is the code used for implementing Lenet architecture.
   
