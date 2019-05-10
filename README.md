@@ -132,10 +132,24 @@ We have trained the Car using Convolutional Neural network for the following 6 S
  
 ![Training-Model](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-accuracy.jpg)
 
+### - loss: 0.0411
+
+### - acc: 0.9810
+
+### - val_loss: 0.0360
+
+### - val_acc: 0.9844
+
 
 #### Training Model Plot
 
 ![Training-Model-Plot](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-plot.jpg)
+
+### - # of epoch = 22
+### - Parameter values = Convolutional layer 1- 25 filters of size 5x5, Convolutional layer 2 - 50 filters of 5x5
+### - Drop out = 0.2
+### - Learning Rate: 0.005
+### - Batch Size: 60
 
 ## Dataset
   1. Stop Sign Images: https://drive.google.com/open?id=1cgsu32XoGJW63Nt1Zl2n1vrNx-Tbtros
