@@ -146,7 +146,6 @@ We have trained the Car using Convolutional Neural network for the following 6 S
   6. Yield Sign Images: https://drive.google.com/open?id=1V1eR2iBYRFvlwVSyOObA1xcLvKadZN8S
   7. No Sign: https://drive.google.com/open?id=14RERMcxZ390g0R4DUvF-1gFQ32ZdoQx8
   
-
 ## Final Phase:
 Final video: https://youtu.be/-vgHj1xRWt0
 
