@@ -41,10 +41,12 @@ Assembling Images:
 
 ### Car Improvement suggestions:
 
-1) HDMI Port placement can be changed in the car so that it will be easy to attach the cable
-2) Better build quality of car
-3) Addition of sensors to detect objects
-4) Better camera quality
+1. HDMI Port placement can be changed in the car so that it will be easy to attach the cable
+2. Better build quality of car
+3. Addition of sensors to detect objects
+4. Better camera quality
+5. The parts of the car are open. This is not good for the safety of the car. It would be better if we can safe gaurd them with a       covering.
+6. Camera position can be improved so that we can visualize things more clearly. As in the present position, the camera movement is not that flexible.
 
 ## Phase 2: SettingUp and Configuration Of RaspberryPi
 
