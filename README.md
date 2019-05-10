@@ -126,10 +126,13 @@ We have trained the Car using Convolutional Neural network for the following 6 S
   - RailRoad Sign 
   - Yield Sign
   
- Training model accuracy
+ #### Training model accuracy
+ 
 ![Training-Model](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-accuracy.jpg)
 
-Training Model Plot
+
+#### Training Model Plot
+
 ![Training-Model-Plot](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-plot.jpg)
 
 ## Dataset
@@ -143,8 +146,4 @@ Training Model Plot
 
 ## Final Phase:
 Final video:
-
-## Improvement Of the Autonomous Car
-1. The parts of the car are open. This is not good for the safety of the car. It would be better if we can safe gaurd them with a covering.
-2. Camera position can be improved so that we can visualize things more clearly. As in the present position, the camera movement is not that flexible.
 
