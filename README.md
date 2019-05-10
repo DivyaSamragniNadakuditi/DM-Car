@@ -1,11 +1,17 @@
 ![car-image](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Car-Image.png)
 
 
-# Autonomous Car project in CPSC552 Data Mining 
+# Autonomous Vehicle using Data Mining Technique: Deep Learning
 This Repository contains the setting up of an autonomous raspberry pi-car and training it with data mining models.
 
 # Group 1
 <hr />
+
+## Group Members:
+  1. Divya Samragni Nadakuditi
+  2. Nitish Soman
+  3. Shiva Shankar Ganesan
+  4. Amr Attia
 
 ## Contents:
   1. Introduction
