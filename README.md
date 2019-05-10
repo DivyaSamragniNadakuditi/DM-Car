@@ -33,7 +33,7 @@ Assembling Images:
   - Image 7: https://drive.google.com/open?id=1Ph_FcsrJVG4Len6V5LPcctoVV78qP6hH
   - Image 8: https://drive.google.com/open?id=1YSXAkY4WXzOJj0wjS5uYMim6Uz-I860p
 
-### Question: Car Improvement suggestions:
+### Car Improvement suggestions:
 
 1) HDMI Port placement can be changed in the car so that it will be easy to attach the cable
 2) Better build quality of car
@@ -58,11 +58,7 @@ We Download Raspbian Image and write it into an SD Card. Later, we edit the wpa 
   - Image 10:https://drive.google.com/open?id=1B2-_0AkgcORT77ADU3T4zFefmPpqLup2
   
 
-### Question: improve the connectivity of picar 
-
-
-
-
+### improve the connectivity of picar 
 
 
 ## Phase 3:
@@ -103,11 +99,6 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   2. All Sign Detection: https://youtu.be/uy3XPrr3few
   3. Trained Model Sign Detection: https://drive.google.com/open?id=1psmRUF6pFnV2PNnOxr2mGeiCogKscE3n
   4. Autonomous Car using Data Mining - Competition Video:
-
-
-
-
-
 
 
 
