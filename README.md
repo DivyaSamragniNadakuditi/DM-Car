@@ -35,6 +35,11 @@ Assembling Images:
 
 ### Question: Car Improvement suggestions:
 
+1) HDMI Port placement can be changed in the car so that it will be easy to attach the cable
+2) Better build quality of car
+3) Addition of sensors to detect objects
+4) Better camera quality
+
 ## Phase 2: SettingUp and Configuration Of RaspberryPi
 
 We Download Raspbian Image and write it into an SD Card. Later, we edit the wpa configuration file and set the network details. We further use VNC Viewer to connect to the Raspberrypi. The Images of the setting up and Configuration steps are in the link below.
