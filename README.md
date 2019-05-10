@@ -82,16 +82,17 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   
   2. How to design CNN architecture including how many layers, what kind of layers, and so on<br/>
   Convolutional Neural Networks are very similar to ordinary Neural Networks. They are made up of neurons that have learnable weights     and biases. Each neuron receives some inputs, performs a dot product and optionally follows it with a non-linearity. The whole        network still expresses a single differentiable score function: from the raw image pixels on one end to class scores at the other. And  they still have a loss function (e.g. SVM/Softmax) on the last (fully-connected) layer and all the tips/tricks we developed for   learning regular Neural Networks still apply.  
-
-  A simple ConvNet is a sequence of layers, and every layer of a ConvNet transforms one volume of activations to another through a  differentiable function. We use three main types of layers to build ConvNet architectures: Convolutional Layer, Pooling Layer, and  Fully-Connected Layer (exactly as seen in regular Neural Networks). We will stack these layers to form a full ConvNet architecture.
+   A simple ConvNet is a sequence of layers, and every layer of a ConvNet transforms one volume of activations to another through a        differentiable function. We use three main types of layers to build ConvNet architectures: Convolutional Layer, Pooling Layer, and   Fully-Connected Layer (exactly as seen in regular Neural Networks). We will stack these layers to form a full ConvNet architecture.
   
-  3. How to optimize the model including parameter values, drop out, backpropagation, learning rate, # of epoch and so on
-  
-  
-  4. Evaluations
+  3. How to optimize the model including parameter values, drop out, backpropagation, learning rate, # of epoch and so on<br />
+  Learning rate completely depends on epoch value.
   
   
-  5. How to overcome the limitations in your DM-Car implementation
+  4. Evaluations<br />
+  The evaluation of the Neural Network completely depends on quality dataset so that when you trained the model you will get less jitter   or loss and achieve more accuracy level.
+  
+  5. How to overcome the limitations in your DM-Car implementation<br/ >
+  To train the model using convolution Neural network requires high processing power and good GPU so that it will perform well and you     will get better results.
   
   Trained model sign detection images:
   - Stop Sign: https://drive.google.com/open?id=1oHMZ2Tfo1g5WiY-WAukLalZkMnG8qXdA
