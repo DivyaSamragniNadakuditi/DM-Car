@@ -77,10 +77,10 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
 ## Phase 4:
 
 ### Questions:
-  1. Image Size
+  1. Image Size<br/>
   Currently, we are using 28 * 28 image size, but if we increase it then it will increase the performance of the nureal network.
   
-  2. How to design CNN architecture including how many layers, what kind of layers, and so on
+  2. How to design CNN architecture including how many layers, what kind of layers, and so on<br/>
   Convolutional Neural Networks are very similar to ordinary Neural Networks. They are made up of neurons that have learnable weights     and biases. Each neuron receives some inputs, performs a dot product and optionally follows it with a non-linearity. The whole        network still expresses a single differentiable score function: from the raw image pixels on one end to class scores at the other. And  they still have a loss function (e.g. SVM/Softmax) on the last (fully-connected) layer and all the tips/tricks we developed for   learning regular Neural Networks still apply.  
 
   A simple ConvNet is a sequence of layers, and every layer of a ConvNet transforms one volume of activations to another through a  differentiable function. We use three main types of layers to build ConvNet architectures: Convolutional Layer, Pooling Layer, and  Fully-Connected Layer (exactly as seen in regular Neural Networks). We will stack these layers to form a full ConvNet architecture.
