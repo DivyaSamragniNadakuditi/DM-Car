@@ -5,7 +5,6 @@
 This Repository contains the setting up of an autonomous raspberry pi-car and training it with data mining models.
 
 # Group 1
-<hr />
 
 ## Group Members:
   1. Divya Samragni Nadakuditi
@@ -145,5 +144,5 @@ We have trained the Car using Convolutional Neural network for the following 6 S
   
 
 ## Final Phase:
-Final video:
+Final video: https://youtu.be/CAQ1QTccTxw
 
