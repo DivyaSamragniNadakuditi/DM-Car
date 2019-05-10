@@ -153,8 +153,8 @@ We have trained the Car using Convolutional Neural network for the following 6 S
 
 ## Dataset
 
-Image size: 28x28
-Total number of images: 3905
+- Image size: 28x28
+- Total number of images: 3905
 
   1. Stop Sign Images: https://drive.google.com/open?id=1cgsu32XoGJW63Nt1Zl2n1vrNx-Tbtros
   2. High Speed Images https://drive.google.com/open?id=1GEFpTuB8Rnm2vT4GvPO0yPBp2KuHxYD1
