@@ -104,7 +104,7 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   1. Lane Detection: https://youtu.be/crSBcHiNZTg
   2. All Sign Detection: https://youtu.be/uy3XPrr3few
   3. Trained Model Sign Detection: https://drive.google.com/open?id=1psmRUF6pFnV2PNnOxr2mGeiCogKscE3n
-  4. Autonomous Car using Data Mining - Competition Video:
+  4. Autonomous Car using Data Mining - Competition Video: https://youtu.be/jQg26bn4u0w
 
 ## CNN Characteristics:
 
