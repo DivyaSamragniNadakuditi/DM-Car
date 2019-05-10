@@ -107,6 +107,20 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   4. Autonomous Car using Data Mining - Competition Video:
 
 
+## Training Model for Various Signs using Convolutional Neural Networks
+We have trained the Car using Convolutional Neural network for the following 6 Signs:
+  - Stop Sign 
+  - High Speed Sign 
+  - Low Speed Sign 
+  - Trafic Signal Sign 
+  - RailRoad Sign 
+  - Yield Sign
+  
+ Training model accuracy
+![Training-Model](https://drive.google.com/open?id=1j9V0xObcP7mVn1eS43PQ-jh4lV95TdHc)
+
+Training Model Plot
+![Training-Model-Plot](https://drive.google.com/open?id=1Bo7_JFkyND8kYjc0Qfq9SSYSA5ZEnmac)
 
 ## Dataset
   1. Stop Sign Images: https://drive.google.com/open?id=1fbCMN62OzVuYi596aOx4-TIq_Lqe5W14
@@ -116,19 +130,9 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   5. RailRoad Images: https://drive.google.com/open?id=1vKr5ShTeaz1iPxNJDMWjB7vQmNkkPnbR
   6. Yield Sign Images: https://drive.google.com/open?id=11uYymdVrB_DhhJbWKtHQ1VmoF72nj3U6
   
-## Training Model for Various Signs using Convolutional Neural Networks
-We have trained the Car using Convolutional Neural network for the following Signs:
-  Stop Sign, 
-  High Speed Sign, 
-  Low Speed Sign, 
-  Trafic Signal Sign, 
-  RailRoad Sign, 
-  Yield Sign.
-  
-![stop-NN](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/stop-NN.png)
 
-Video Link:
-https://www.youtube.com/watch?v=OOpc0Sy0k70&feature=youtu.be
+## Final Phase:
+Final video:
 
 ## Improvement Of the Autonomous Car
 1. The parts of the car are open. This is not good for the safety of the car. It would be better if we can safe gaurd them with a covering.
