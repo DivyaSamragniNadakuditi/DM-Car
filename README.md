@@ -128,7 +128,7 @@ We have trained the Car using Convolutional Neural network for the following 6 S
 ![Training-Model](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-accuracy.jpg)
 
 Training Model Plot
-![Training-Model-Plot](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images//Training-model-plot.png)
+![Training-Model-Plot](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-plot.jpg)
 
 ## Dataset
   1. Stop Sign Images: https://drive.google.com/open?id=1fbCMN62OzVuYi596aOx4-TIq_Lqe5W14
