@@ -115,6 +115,8 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
 
   1. Architecture - LeNet : We have used Lenet architecture for classifying the images. The LetNet architecture is an excellent “first image classifier” for Convolutional Neural Networks.The LeNet architecture consists of two sets of convolutional, activation, and pooling layers, followed by a fully-connected layer, activation, another fully-connected, and finally a softmax classifier. The LeNet architecture is implemented using Keras and Python
 File: LeNet.py is the code used for implementing Lenet architecture.
+
+ 2. We are using different labels for signboards so that it will know which label used for which sign boards, so according it will      changes it's a label. We also checked the probability of each signboard to get better results.
   
 ## Training Model for Various Signs using Convolutional Neural Networks
 
