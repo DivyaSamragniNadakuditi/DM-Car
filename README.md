@@ -117,10 +117,10 @@ We have trained the Car using Convolutional Neural network for the following 6 S
   - Yield Sign
   
  Training model accuracy
-![Training-Model](https://drive.google.com/open?id=1j9V0xObcP7mVn1eS43PQ-jh4lV95TdHc)
+![Training-Model](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images/Training-model-accuracy.jpg)
 
 Training Model Plot
-![Training-Model-Plot](https://drive.google.com/open?id=1Bo7_JFkyND8kYjc0Qfq9SSYSA5ZEnmac)
+![Training-Model-Plot](https://github.com/DivyaSamragniNadakuditi/DM-Car/blob/master/Images//Training-model-plot.png)
 
 ## Dataset
   1. Stop Sign Images: https://drive.google.com/open?id=1fbCMN62OzVuYi596aOx4-TIq_Lqe5W14
