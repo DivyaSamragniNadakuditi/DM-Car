@@ -91,7 +91,7 @@ Lane Detection Video: https://youtu.be/crSBcHiNZTg
   4. Evaluations<br />
   The evaluation of the Neural Network completely depends on quality dataset so that when you trained the model you will get less jitter   or loss and achieve more accuracy level.
   
-  5. How to overcome the limitations in your DM-Car implementation<br/ >
+  5. How to overcome the limitations in your DM-Car implementation<br />
   To train the model using convolution Neural network requires high processing power and good GPU so that it will perform well and you     will get better results.
   
   Trained model sign detection images:
